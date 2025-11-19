@@ -14,16 +14,16 @@
   "dependencies": {
     "@nuxt/eslint": "^1.10.0",
     "@nuxt/image": "^2.0.0",
-    "@nuxt/ui": "^4.1.0",
+    "@nuxt/ui": "^4.2.0",
     "@nuxthub/core": "^0.9.0",
     "nuxt": "^4.2.1",
     "vue": "latest",
     "vue-router": "latest"
   },
   "devDependencies": {
-    "@iconify/json": "^2.2.404",
+    "@iconify/json": "^2.2.408",
     "eslint": "^9.39.1",
     "typescript": "^5.9.3",
-    "wrangler": "^4.46.0"
+    "wrangler": "^4.49.0"
   }
 }
